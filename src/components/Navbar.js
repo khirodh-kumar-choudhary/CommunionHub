@@ -26,7 +26,7 @@ const Navbar = () => {
     {
       text: "About",
       icon: <HiInformationCircle />,
-      path: "/about",
+      path: "/",
     },
     {
       text: "Communities",
